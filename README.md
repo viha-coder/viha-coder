@@ -44,8 +44,8 @@ Working in a high-volume Neapolitan pizzeria has equipped me with valuable profe
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=viha-coder&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Guilherme's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viha-coder&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=viha-coder&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Guilherme's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=viha-coder&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" height="150" />
 </p>
 
 ---
